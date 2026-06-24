@@ -1,12 +1,3 @@
-Open:
-
-```text
-docs/10-dimensional-modelling.md
-```
-
-Paste this:
-
-````markdown
 # Module 10: Dimensional Modelling
 
 ## Goal
